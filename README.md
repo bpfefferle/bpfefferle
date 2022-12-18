@@ -2,8 +2,8 @@
 - ♥️ I have a passion for front-end web development.
 - 🌱 I aspire to learn back-end web development.
 - 🎮 Sometimes, I like to code video games.
-- 📫 Contact me on <a href="https://www.linkedin.com/in/brpfefferle/" target="_blank">Linkedin</a>!
-- 📑 Visit my <a href="https://bpfefferle.github.io/" target="_blank">Portfolio</a>!
+- 📫 Contact me on <a href="https://www.linkedin.com/in/brpfefferle/">Linkedin</a>!
+- 📑 Visit my <a href="https://bpfefferle.github.io/">Portfolio</a>!
 
 ### Languages and Tools
 
