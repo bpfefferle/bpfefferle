@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Brent (@bpfefferle), I'm a new grad from CSUF.
+- 👋 Hi, I'm Brent (@bpfefferle), I'm a software engineer.
 - ♥️ I have a passion for front-end web development.
 - 🌱 I aspire to learn back-end web development.
 - 🎮 Sometimes, I like to code video games.
