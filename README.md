@@ -1,6 +1,7 @@
 - 👋 Hi, I'm Brent (@bpfefferle), I'm a software engineer.
-- ♥️ I have a passion for front-end web development.
-- 🌱 I aspire to learn back-end web development.
+- ♥️ I have a passion for front-end web development (UI/UX).
+- 🌱 I aspire to learn more back-end web development.
+- 💻 I have professional experience with desktop applications (GUI).
 - 🎮 Sometimes, I like to code video games.
 - 📫 Contact me on <a href="https://www.linkedin.com/in/brpfefferle/">Linkedin</a>!
 - 📑 Visit my <a href="https://bpfefferle.github.io/">Portfolio</a>!
